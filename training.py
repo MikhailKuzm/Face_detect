@@ -201,3 +201,5 @@ def train(model, x_train, valid,  learning_rate = 0.01, num_epochs = 8):
 
 
 train(model, x_train = training_generator, valid = validation_generator, num_epochs = 30)     
+
+
