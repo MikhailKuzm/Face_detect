@@ -17,7 +17,13 @@
 
 ### Вывод результата
 Кадры с выделенным лицом и результатами классификации выводятся на экран в постоянном режиме. 
-Для демонстрации работы приложения нужно запустить launch_face_detection.py
+Для демонстрации работы приложения нужно запустить launch_face_detection.py В итоге получится что-то вроде этого:
+
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/MikhailKuzm/Face_detect/main/test.jpg" width="350" />
+
+  <img src="https://raw.githubusercontent.com/MikhailKuzm/Face_detect/main/test2.jpg" width="350" />
+</p>
 
 ## Файлы проекта
 1. <b>model_structure.py</b> Содержит класс, определяющий архитектуру модели
