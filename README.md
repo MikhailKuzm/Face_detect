@@ -20,7 +20,7 @@
 Для демонстрации работы приложения нужно запустить launch_face_detection.py В итоге получится что-то вроде этого:
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/MikhailKuzm/Face_detect/main/test.jpg" width="750" />
+  <img src="https://raw.githubusercontent.com/MikhailKuzm/Face_detect/main/test2.jpg" width="750" />
 </p>
 
 ## Файлы проекта
